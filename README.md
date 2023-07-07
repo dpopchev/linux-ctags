@@ -1,4 +1,4 @@
-# linux-readline
+# linux-ctags
 
 Configuration to distribute for `ctags`.
 
